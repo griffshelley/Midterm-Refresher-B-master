@@ -1,6 +1,6 @@
 /* Stylesheet */
 body {
-	background: #000;
+	background: url("..img/bg.png");
 }
 
 p, h3 {
@@ -31,9 +31,7 @@ section {
 	
 }
 
-.container_12 {
-	background: #FFF;
-}
+
 
 .showgrid {
 	background: url("../img/12-col-grid.gif") !important;
